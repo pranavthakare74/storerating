@@ -4,8 +4,7 @@ A full-stack web application where users can register, browse stores, and submit
 The platform has a single login system with **three roles** — System Administrator, Normal User, and
 Store Owner — each with role-based access to different functionality.
 
-This is a rebuild of the original Spring Boot project using the technology stack required by the
-coding challenge.
+
 
 ## Tech Stack
 
